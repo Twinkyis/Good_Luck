@@ -9,5 +9,6 @@ public class Main {
             d.drive_car();
             d.follow_car();
             d.stop_car();
+            d.stop_car();
             }
 }
